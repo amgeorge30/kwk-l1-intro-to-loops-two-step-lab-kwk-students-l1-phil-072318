@@ -52,8 +52,8 @@
     else 
       puts "right"
    steps += 1
- end
-   if steps > 5
+  end
+   if steps >5
      break
     end
   end
